@@ -1,0 +1,13 @@
+1- Installer les plugins JAVA-FX sur l'ide (netbeans de préférence).
+
+2- Ouvrir le projet "Firefly Wolf Search -MS".
+
+3- Dans la classe Trace_simulation, initialiser :
+	TailleReseau, MaxParticule, TailleParticule, MaxGeneration, area_size.
+
+4- Dans la classe Firefly_algo, initialiser :
+	t_slot, t_round.
+
+5- Dans la classe Node, initialiser Energie_Init dans le constructeur.
+
+6- Executer le programme ou bien la classe Trace_simulation.
